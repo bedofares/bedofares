@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdelrahman fares
-- 👀 I’m interested in Programming, Mainly in building Websites and Web application.
+- 👀 I’m interested in Programming, Mainly in building Websites , Web application and mobile applications.
 - 🎓  I'm currently studying Creative Computing at St. Pölten University of Applied Sciences.
 - 🌱 I’m currently learning Web Development and Mobile Appliction Development.  
 - 📫 How to reach me : --> Email:bedo.faruk13@gmail.com --> 
