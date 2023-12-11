@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Web Development and Mobile Appliction Development.  
 - 📫 How to reach me: --> Email:bedo.faruk13@gmail.com -->
 - 📑 Personal portfolio : https://abdelrahman-fares-portfolio.netlify.app/
-Linkden profile : [[linkedin.com/in/abdelrahman-fares-a654271b8](https://www.linkedin.com/in/
+- Linkden profile : [[linkedin.com/in/abdelrahman-fares-a654271b8](https://www.linkedin.com/in/
 abdelrahman-fares)](https://www.linkedin.com/in/abdelrahman-fares)
 
 <!---
